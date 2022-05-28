@@ -1,0 +1,68 @@
+@media screen and (max-width:1200px) {
+   .home li{
+       margin-top: 10px;
+   }
+   .header-link {
+    margin-left: 10px;
+    display: inline-block;
+    flex-direction: column;
+
+}
+.card1{
+  margin-left: 80px;
+}
+.the{
+    margin-top: 80px;
+    text-align: center;
+}
+.manu-para{
+    margin-left: 100px;
+}
+.manu-para2{
+    margin-left: 100px;
+}
+.para4{
+    margin-left: 100px;
+
+}
+.para9{
+margin-left: 100px;
+}
+.media-content{
+   
+    width: 140px;
+}
+.hrc{
+  
+    border-radius: 20px;
+         height: 400px;
+         width: 450px;
+}
+.gg{
+    margin-left: 50px;
+}
+.hrc{
+    margin: 20px;
+    border-radius: 20px;
+         height: 400px;
+         width: 450px;
+     }
+     .av{
+        margin-top: 450px;
+       font-family: 'Pacifico', cursive;
+       font-family: 'Quintessential', cursive;
+        text-align: center;
+    }
+    .p-b{
+      margin: 10px;
+     }
+.re-im{
+margin-left: 140px;
+
+}
+.media{
+    margin-left: 80px;
+}
+
+
+}

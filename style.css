@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Lato:wght@700&family=Licorice&family=Pacifico&family=Quintessential&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logo{
+    font-size: 50px;
+}
+.header-link{
+    margin-left: 80px;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.od{
+    color: red;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.home{
+
+}
+.home li{
+    font-weight: bolder;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.home li:hover{
+    text-decoration: underline;
+}
+.aa{
+   color: black;
+}
+.aa:hover{
+    color: red;
+}
+.bb{
+    color: black;
+}
+/*manu start*/
+.manu{
+    margin-top:40px;
+}
+.cover{
+  height: 400px;
+}
+.par{
+    
+    font-family: 'Pacifico', cursive;
+font-family: 'Quintessential', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+.img1{
+    margin-top: 40px;
+    height: 90px;
+    margin-left: 20px;
+}
+.kk{
+    float: left;
+    max-width: 300px;
+}
+.media-content{
+   
+    width: 180px;
+}
+.the{
+    font-family: 'Pacifico', cursive;
+font-family: 'Quintessential', cursive;
+    font-size: 60px;
+}
+.manu-para{
+    margin-top: 30px;
+    font-weight: bolder;
+}
+.manu-para2{
+    margin-top: 30px;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Quintessential', cursive;
+    font-size: 20px;
+    color: darkgrey;
+}
+.para3{
+    padding: 30px;
+}
+.para4{
+ margin-top: 150px;
+    font-size: 20px;
+}
+.para5{
+    margin-left: 20px;
+    font-size: 20px;
+color: dimgray;
+}
+.para6{
+    width: 30px;
+     margin-left: 50px;
+     font-size: 20px;
+ }
+ .para7{ 
+      width: 30px;
+     font-size: 20px;
+ }
+ .para8{
+    width: 30px;
+     font-size: 20px;
+ }
+ .para9{
+     border-radius: 10px;
+     margin-top: 50px;
+     background-color: blanchedalmond;
+     font-size: 25px;
+     width: 150px;
+ }
+ .para9:hover{
+     background-color: red;
+     color: white;
+ }
+ .para10{
+     margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    background-color: blanchedalmond;
+    font-size: 25px;
+    width: 150px;
+}
+.para10:hover{
+    background-color: red;
+    color: white;
+}
+
+/*section opan*/
+.sec-ro{
+    text-align: center;
+    margin-top: 120px;
+}
+.icon{
+    color: brown;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.our{
+    margin-top: 60px;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Quintessential', cursive;
+    text-align: center;
+
+}
+.uro{
+    margin-left: 30px;
+}
+.img4-p{
+    height: 120px;
+}
+.para44{
+   width: 220px;
+}
+.para44:hover{
+    background-color: red;
+    width: 220px;
+ }
+ .imge{
+     padding: 10px;
+ }
+ .imge:hover{
+box-shadow: 2px 5px 20px black;
+ }
+ .about{
+     height: 500px;
+     margin-top: 50px;
+     background-color: gray;
+ }
+ .hrc{
+margin: 80px;
+border-radius: 20px;
+     height: 400px;
+     width: 450px;
+ }
+ .gg{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Quintessential', cursive;
+     margin-top: 120px;
+     color: black;
+ }
+ .veo{
+     margin-top: 30px;
+     text-align: center;
+     width: 120px;
+ }
+ .veo:hover{
+     background-color: brown;
+ }
+ .av{
+     margin-top: 50px;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Quintessential', cursive;
+     text-align: center;
+ }
+ .p-lo{
+     text-align: center;
+ }
+ .pll{
+     text-align: center;
+ }
+ .p-b{
+    height: 40px;
+     width: 120px;
+ }
+ .p-b:hover{
+    
+    width: 120px;
+    background-color: brown;
+}
+.reveo{
+    margin-top: 120px;
+    margin-right: 30px;
+}
+.reveo-p{
+    height: 120px;
+    float: left;
+    width: 50px;
+}
+.re-a{
+    float: left;
+}
+.re-im{
+height: 300px;
+
+}
+.spray{
+    margin-top: 30px;
+}
+.as{text-align: center;
+
+
+}
+.foter{
+    background-color: blanchedalmond;
+    margin-top: 50px;
+}
+.f-feather{padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
